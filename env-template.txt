@@ -1,0 +1,9 @@
+PROJECT_ID=posemind-ai
+LOCATION=us-us-central1-b
+GEMINI_MODEL_NAME=gemini-2.0-flash
+EMBEDDING_MODEL_NAME=text-embedding-004
+IMAGE_GENERATION_MODEL_NAME=imagen-3.0-fast-generate-001
+DATABASE=(default)
+COLLECTION=poses
+TEST_COLLECTION=test-poses
+TOP_K=3
